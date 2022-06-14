@@ -2,7 +2,7 @@
 
 ## Make these badges green
 
-[![Build Status](https://travis-ci.org/anidok/python-tdd-exercises.svg?branch=master)](https://travis-ci.org/anidok/python-tdd-exercises/builds)
+[![Build Status](https://travis-ci.com/anidok/python-tdd-exercises.svg?branch=master)](https://travis-ci.com/gauri-sankar-dg/python-tdd-exercises/builds)
 [![Coverage Status](https://coveralls.io/repos/anidok/python-tdd-exercises/badge.png?branch=master)](https://coveralls.io/r/anidok/python-tdd-exercises?branch=master)
 
 After you fork, edit this `README.md` and rename "anidok" to your GitHub username
